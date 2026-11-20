@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coy Discover
 
 A swipe-based "Discover" tab built for the Coy SDE intern assignment (Part B).
@@ -57,3 +58,6 @@ tests/          node:test suite
 ## Notes
 
 Photos come from picsum.photos placeholders; if they can't load (offline), each card falls back to a gradient with the person's initial.
+=======
+# coy-discover
+>>>>>>> 20eac73ec9b519f1d0c5c614bca9a1349b206b54
